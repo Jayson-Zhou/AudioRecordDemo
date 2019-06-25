@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AudioRecordLearning</string>
+    <string name="text_btn_record">录音</string>
+    <string name="text_btn_stop">结束</string>
+    <string name="text_btn_play">播放</string>
+</resources>
